@@ -13,7 +13,7 @@ Here’s what you’ll find in this repo:
 
 - **Netflix_movie_data_analysis.ipynb** – The complete Jupyter Notebook with step-by-step analysis, visualizations, and insights.
 -  **dataset.csv** – The dataset I worked with (cleaned and ready to use).
--  **summary.md** – A human-readable summary of the analysis (in case you don’t want to go through all the code).
+-  **README.md** – A human-readable summary of the analysis (in case you don’t want to go through all the code).
 
 
 
